@@ -1,6 +1,7 @@
-.login-form-card{
+.login-flex-container{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
+    height: 100dvh;
 }
